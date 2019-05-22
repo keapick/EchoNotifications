@@ -26,15 +26,12 @@
 		A11E3C8320DE044000A90A96 /* RichNotificationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11E3C8020DE044000A90A96 /* RichNotificationViewController.swift */; };
 		A11E3C8420DE044000A90A96 /* DeviceInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11E3C8120DE044000A90A96 /* DeviceInfoViewController.swift */; };
 		A11E3C8620DE04E900A90A96 /* LogTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11E3C8520DE04E900A90A96 /* LogTableViewCell.swift */; };
-		A11E3C8D20DE054900A90A96 /* Love Will Tear Us Apart.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8720DE054900A90A96 /* Love Will Tear Us Apart.mp3 */; };
-		A11E3C8E20DE054900A90A96 /* huskies.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8820DE054900A90A96 /* huskies.jpg */; };
-		A11E3C8F20DE054900A90A96 /* rabbit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8920DE054900A90A96 /* rabbit.jpg */; };
-		A11E3C9020DE054900A90A96 /* starTrails.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8A20DE054900A90A96 /* starTrails.mp4 */; };
-		A11E3C9120DE054900A90A96 /* London Calling.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8B20DE054900A90A96 /* London Calling.mp3 */; };
-		A11E3C9220DE054900A90A96 /* jellyfish.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C8C20DE054900A90A96 /* jellyfish.mp4 */; };
 		A11E3C9620DE0F5F00A90A96 /* NSURLSession+Logging.m in Sources */ = {isa = PBXBuildFile; fileRef = A11E3C9520DE0F5F00A90A96 /* NSURLSession+Logging.m */; };
 		A11E3C9920DECB5A00A90A96 /* AWSImage.json in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C9720DECB5A00A90A96 /* AWSImage.json */; };
 		A11E3C9A20DECB5A00A90A96 /* Image.json in Resources */ = {isa = PBXBuildFile; fileRef = A11E3C9820DECB5A00A90A96 /* Image.json */; };
+		A18CC172229514F700CEC858 /* gull.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = A18CC16F229514F700CEC858 /* gull.jpeg */; };
+		A18CC173229514F700CEC858 /* japan.mov in Resources */ = {isa = PBXBuildFile; fileRef = A18CC170229514F700CEC858 /* japan.mov */; };
+		A18CC174229514F700CEC858 /* crab.mov in Resources */ = {isa = PBXBuildFile; fileRef = A18CC171229514F700CEC858 /* crab.mov */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -103,17 +100,14 @@
 		A11E3C8020DE044000A90A96 /* RichNotificationViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RichNotificationViewController.swift; sourceTree = "<group>"; };
 		A11E3C8120DE044000A90A96 /* DeviceInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceInfoViewController.swift; sourceTree = "<group>"; };
 		A11E3C8520DE04E900A90A96 /* LogTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogTableViewCell.swift; sourceTree = "<group>"; };
-		A11E3C8720DE054900A90A96 /* Love Will Tear Us Apart.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Love Will Tear Us Apart.mp3"; sourceTree = "<group>"; };
-		A11E3C8820DE054900A90A96 /* huskies.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huskies.jpg; sourceTree = "<group>"; };
-		A11E3C8920DE054900A90A96 /* rabbit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = rabbit.jpg; sourceTree = "<group>"; };
-		A11E3C8A20DE054900A90A96 /* starTrails.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = starTrails.mp4; sourceTree = "<group>"; };
-		A11E3C8B20DE054900A90A96 /* London Calling.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "London Calling.mp3"; sourceTree = "<group>"; };
-		A11E3C8C20DE054900A90A96 /* jellyfish.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = jellyfish.mp4; sourceTree = "<group>"; };
 		A11E3C9320DE0F5E00A90A96 /* EchoNotification-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "EchoNotification-Bridging-Header.h"; sourceTree = "<group>"; };
 		A11E3C9420DE0F5F00A90A96 /* NSURLSession+Logging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSURLSession+Logging.h"; sourceTree = "<group>"; };
 		A11E3C9520DE0F5F00A90A96 /* NSURLSession+Logging.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSURLSession+Logging.m"; sourceTree = "<group>"; };
 		A11E3C9720DECB5A00A90A96 /* AWSImage.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = AWSImage.json; sourceTree = "<group>"; };
 		A11E3C9820DECB5A00A90A96 /* Image.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Image.json; sourceTree = "<group>"; };
+		A18CC16F229514F700CEC858 /* gull.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gull.jpeg; sourceTree = "<group>"; };
+		A18CC170229514F700CEC858 /* japan.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = japan.mov; sourceTree = "<group>"; };
+		A18CC171229514F700CEC858 /* crab.mov */ = {isa = PBXFileReference; lastKnownFileType = video.quicktime; path = crab.mov; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -224,12 +218,9 @@
 		A11E3C6420DDFE6500A90A96 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				A11E3C8820DE054900A90A96 /* huskies.jpg */,
-				A11E3C8C20DE054900A90A96 /* jellyfish.mp4 */,
-				A11E3C8B20DE054900A90A96 /* London Calling.mp3 */,
-				A11E3C8720DE054900A90A96 /* Love Will Tear Us Apart.mp3 */,
-				A11E3C8920DE054900A90A96 /* rabbit.jpg */,
-				A11E3C8A20DE054900A90A96 /* starTrails.mp4 */,
+				A18CC171229514F700CEC858 /* crab.mov */,
+				A18CC16F229514F700CEC858 /* gull.jpeg */,
+				A18CC170229514F700CEC858 /* japan.mov */,
 				A11E3C7020DDFEB000A90A96 /* AWSHelloWorld.json */,
 				A11E3C6E20DDFEB000A90A96 /* AWSHelloWorld2.json */,
 				A11E3C9720DECB5A00A90A96 /* AWSImage.json */,
@@ -322,13 +313,13 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 0830;
-				LastUpgradeCheck = 0930;
+				LastUpgradeCheck = 1020;
 				ORGANIZATIONNAME = echo;
 				TargetAttributes = {
 					5F09586B1F5B5688004137C5 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 8ZKUDT7A65;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						SystemCapabilities = {
 							com.apple.BackgroundModes = {
@@ -342,28 +333,28 @@
 					5F09587F1F5B5688004137C5 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 8ZKUDT7A65;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 5F09586B1F5B5688004137C5;
 					};
 					5F09588A1F5B5688004137C5 = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 8ZKUDT7A65;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 5F09586B1F5B5688004137C5;
 					};
 					5F800A1E1F646F97005BA0DC = {
 						CreatedOnToolsVersion = 8.3.3;
 						DevelopmentTeam = 8ZKUDT7A65;
-						LastSwiftMigration = 0930;
+						LastSwiftMigration = 1020;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
 			buildConfigurationList = 5F0958671F5B5688004137C5 /* Build configuration list for PBXProject "EchoNotification" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
@@ -387,17 +378,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A11E3C8E20DE054900A90A96 /* huskies.jpg in Resources */,
+				A18CC174229514F700CEC858 /* crab.mov in Resources */,
 				5F09587A1F5B5688004137C5 /* LaunchScreen.storyboard in Resources */,
+				A18CC172229514F700CEC858 /* gull.jpeg in Resources */,
 				A11E3C7220DDFEB000A90A96 /* AWSHelloWorld2.json in Resources */,
-				A11E3C9220DE054900A90A96 /* jellyfish.mp4 in Resources */,
 				5F0958771F5B5688004137C5 /* Assets.xcassets in Resources */,
-				A11E3C9120DE054900A90A96 /* London Calling.mp3 in Resources */,
-				A11E3C8D20DE054900A90A96 /* Love Will Tear Us Apart.mp3 in Resources */,
-				A11E3C8F20DE054900A90A96 /* rabbit.jpg in Resources */,
-				A11E3C9020DE054900A90A96 /* starTrails.mp4 in Resources */,
 				A11E3C7420DDFEB000A90A96 /* AWSHelloWorld.json in Resources */,
 				A11E3C9A20DECB5A00A90A96 /* Image.json in Resources */,
+				A18CC173229514F700CEC858 /* japan.mov in Resources */,
 				A11E3C7320DDFEB000A90A96 /* HelloWorld.json in Resources */,
 				A11E3C9920DECB5A00A90A96 /* AWSImage.json in Resources */,
 				A11E3C7120DDFEB000A90A96 /* HelloWorld2.json in Resources */,
@@ -636,7 +624,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "EchoNotification/EchoNotification-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -653,7 +641,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotification;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "EchoNotification/EchoNotification-Bridging-Header.h";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -667,7 +655,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotificationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EchoNotification.app/EchoNotification";
 			};
 			name = Debug;
@@ -682,7 +670,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotificationTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/EchoNotification.app/EchoNotification";
 			};
 			name = Release;
@@ -696,7 +684,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotificationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = EchoNotification;
 			};
 			name = Debug;
@@ -710,7 +698,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotificationUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 				TEST_TARGET_NAME = EchoNotification;
 			};
 			name = Release;
@@ -725,6 +713,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotification.EchoNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -738,6 +727,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = echo.EchoNotification.EchoNotificationService;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};

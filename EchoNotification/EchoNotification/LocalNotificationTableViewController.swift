@@ -81,22 +81,23 @@ class LocalNotificationTableViewController: UITableViewController {
             self?.clearLog()
             self?.helper.localNotification(title: Date().debugDescription, body: "actionable notification", assetName: nil, assetExtension: nil, category: "ALARM", delayInSeconds: 10)
         })
-//        self.menuOptions.append(MenuOption(description: "Image Notification, 10s") { [weak self] in
-//            self?.clearLog()
-//            self?.helper.localNotification(title: Date().debugDescription, body: "image notification", assetName: "huskies", assetExtension: "jpg", category: nil, delayInSeconds: 10)
-//        })
+        self.menuOptions.append(MenuOption(description: "Image Notification, 10s") { [weak self] in
+            self?.clearLog()
+            self?.helper.localNotification(title: Date().debugDescription, body: "image notification", assetName: "gull", assetExtension: "jpeg", category: nil, delayInSeconds: 10)
+        })
         self.menuOptions.append(MenuOption(description: "Image Notification, actionable, 10s") { [weak self] in
             self?.clearLog()
-            self?.helper.localNotification(title: Date().debugDescription, body: "actionable image notification", assetName: "rabbit", assetExtension: "jpg", category: "ALARM", delayInSeconds: 10)
+            self?.helper.localNotification(title: Date().debugDescription, body: "actionable image notification", assetName: "gull", assetExtension: "jpeg", category: "ALARM", delayInSeconds: 10)
         })
         self.menuOptions.append(MenuOption(description: "Video Notification, 10s") { [weak self] in
             self?.clearLog()
-            self?.helper.localNotification(title: Date().debugDescription, body: "video notification", assetName: "jellyfish", assetExtension: "mp4", category: nil, delayInSeconds: 10)
+            self?.helper.localNotification(title: Date().debugDescription, body: "video notification", assetName: "japan", assetExtension: "mov", category: nil, delayInSeconds: 10)
         })
         self.menuOptions.append(MenuOption(description: "Video Notification, actionable, 10s") { [weak self] in
             self?.clearLog()
-            self?.helper.localNotification(title: Date().debugDescription, body: "actionable video notification", assetName: "starTrails", assetExtension: "mp4", category: "ALARM", delayInSeconds: 10)
+            self?.helper.localNotification(title: Date().debugDescription, body: "actionable video notification", assetName: "crab", assetExtension: "mov", category: "ALARM", delayInSeconds: 10)
         })
+        // I don't have free license audio recordings
 //        self.menuOptions.append(MenuOption(description: "Audio Notification, 10s") { [weak self] in
 //            self?.clearLog()
 //            self?.helper.localNotification(title: Date().debugDescription, body: "audio notification", assetName: "London Calling", assetExtension: "mp3", category: nil, delayInSeconds: 10)

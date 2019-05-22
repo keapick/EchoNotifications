@@ -1,0 +1,3 @@
+{
+    "APNS_SANDBOX": "{\"aps\":{\"alert\":\"Hello World\",\"mutable-content\":1},\"assetURL\":\"https://upload.wikimedia.org/wikipedia/commons/0/06/Pierre_de_Coubertin_Anefo.jpg\"}"
+}

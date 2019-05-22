@@ -1,0 +1,4 @@
+{
+  "APNS_SANDBOX": "{\"aps\":{\"alert\":{\"body\":\"This is the body\",\"subtitle\":\"subtitle\",\"title\":\"Hello World\"},\"category\":\"ALARM\"}}"
+}
+

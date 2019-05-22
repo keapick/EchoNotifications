@@ -1,0 +1,3 @@
+{
+  "APNS_SANDBOX": "{\"aps\":{\"alert\":\"Hello World\"}}"
+}

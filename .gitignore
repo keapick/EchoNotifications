@@ -62,4 +62,6 @@ fastlane/test_output
 
 iOSInjectionProject/
 
-
+# Ignore test certificates
+Certificates/
+certificates/
